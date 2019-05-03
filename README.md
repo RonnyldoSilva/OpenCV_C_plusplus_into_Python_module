@@ -5,7 +5,7 @@
 
 Imagine writing a Computer Vision library using OpenCV. You want your code to be easily portable to Linux, Mac, Windows, iOS, Android and even embedded devices. So you choose to build your library in C++ using OpenCV. Excellent choice!
 
-## Requirements
+### Requirements
 * [OpenCV 3.4.4](https://github.com/RonnyldoSilva/Install-and-Training-Tesseract-4-OCR-Opencv)
 
 ### Install NumPy, SciPy, Matplotlib and OpenCV for Python 3
