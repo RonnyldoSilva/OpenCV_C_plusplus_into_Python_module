@@ -1,8 +1,13 @@
 # OpenCV C++ Into Python Module
 
+## Please, leave a star! 
+:star::star::star::star::star:
+
 Imagine writing a Computer Vision library using OpenCV. You want your code to be easily portable to Linux, Mac, Windows, iOS, Android and even embedded devices. So you choose to build your library in C++ using OpenCV. Excellent choice!
 
 ### Requirements
+
+### Install NumPy, SciPy, Matplotlib and OpenCV for Python 3
 
 Let’s start by making sure we have an updated system:
 ```
@@ -21,3 +26,6 @@ Many useful Python libraries can be installed from https://pypi.org, let’s mak
 
 If you need to install a library from https://pypi.org, for example the Python Imaging Library Pillow, you can do it with:
 `pip3 install Pillow`
+
+## Please, leave a star! 
+:star::star::star::star::star:
