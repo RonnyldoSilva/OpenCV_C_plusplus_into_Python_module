@@ -6,7 +6,7 @@
 Imagine writing a Computer Vision library using OpenCV. You want your code to be easily portable to Linux, Mac, Windows, iOS, Android and even embedded devices. So you choose to build your library in C++ using OpenCV. Excellent choice!
 
 ### Requirements
-
+ 
 ### Install NumPy, SciPy, Matplotlib and OpenCV for Python 3
 
 Let’s start by making sure we have an updated system:
